@@ -1,0 +1,52 @@
+h1,
+strong {
+    color: #333;
+}
+strong{
+    font-weight: normal;
+}
+
+body {
+    background: url("bg.webp") no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(255, 255, 255, 0.538);
+    color: #333;
+}
+
+h1,
+.legend {
+    text-align: center;
+}
+
+h3 {
+    font-size: medium;
+}
+
+.centered {
+    text-align: center;
+}
+
+.fab,
+.fas {
+    font-size: 1.5em;
+}
+
+a {
+    color: #1aacac;
+    /*  #59cece; */
+}
+a:hover {
+    color: #08cdcd;
+    text-decoration: none;
+    /*  #59cece; */
+}
+
+a>i {
+    color: #d94d4d;
+}
+a>i:hover {
+    color: #ff0000;
+}
