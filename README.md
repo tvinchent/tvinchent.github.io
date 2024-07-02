@@ -1,6 +1,5 @@
 # tvinchent.github.io
 
 ## description
-Mon portfolio sur ***github***
 
-## comment déployer
+Mon portfolio sur **_github_**
