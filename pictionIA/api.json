@@ -1,0 +1,538 @@
+[
+    {
+        "prompt": "Jesus selfie",
+        "image": "assets/images/farfelue_01.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	
+	{
+        "prompt": "En faire tout un fromage",
+        "image": "assets/images/expression_01.webp",
+        "indice": "On recherche une expression"
+    },
+	
+	
+	{
+        "prompt": "Cheesecake saumon",
+        "image": "assets/images/farfelue_02.webp",
+        "indice": "On recherche 2 mots"
+    },
+	
+	{
+        "prompt": "Monstre spaghetti volant",
+        "image": "assets/images/farfelue_03.webp",
+        "indice": "On recherche 3 mots"
+    },
+	
+	{
+        "prompt": "Einstein chapeau",
+        "image": "assets/images/farfelue_04.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	
+	
+	{
+        "prompt": "Bigfoot",
+        "image": "assets/images/farfelue_05.webp",
+        "indice": "On recherche 1 mot"
+    },
+	
+	
+    {
+        "prompt": "Un froid de canard",
+        "image": "assets/images/expression_02.webp",
+        "indice": "On recherche une expression"
+    },
+		
+	{
+        "prompt": "Beyoncé mange ses nems",
+        "image": "assets/images/farfelue_07.webp",
+        "indice": "On recherche 1 perso. et 3 mots"
+    },
+			
+	{
+        "prompt": "Clown Super-héros",
+        "image": "assets/images/farfelue_08.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Lémurien pilote",
+        "image": "assets/images/farfelue_09.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Freddie Mercury Télétubbies",
+        "image": "assets/images/farfelue_10.webp",
+        "indice": "On recherche 1 perso. et 1 animé"
+    },
+	{
+        "prompt": "Toys story Bois",
+        "image": "assets/images/farfelue_11.webp",
+        "indice": "On recherche 1 film et 1 mot"
+    },
+	{
+        "prompt": "Les murs ont des oreilles",
+        "image": "assets/images/expression_03.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Picasso Marilyn Monroe",
+        "image": "assets/images/farfelue_13.webp",
+        "indice": "On recherche 2 artistes"
+    },
+	{
+        "prompt": "Chaton surfeur",
+        "image": "assets/images/farfelue_15.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Quand les cochons auront des ailes",
+        "image": "assets/images/expression_04.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Jeanne d'arc Tank",
+        "image": "assets/images/farfelue_16.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Haut comme trois pommes",
+        "image": "assets/images/expression_05.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Harry potter Squid game",
+        "image": "assets/images/farfelue_19.webp",
+        "indice": "On recherche 1 film et 1 série"
+    },
+	{
+        "prompt": "Lapin voiture",
+        "image": "assets/images/farfelue_20.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Da Vinci chevauche écureuil",
+        "image": "assets/images/farfelue_21.webp",
+        "indice": "On recherche 1 artiste et 2 mots"
+    },
+	{
+        "prompt": "Chuck Norris maison de retraite",
+        "image": "assets/images/farfelue_22.webp",
+        "indice": "On recherche 1 perso. et 1 lieu"
+    },
+	{
+        "prompt": "Chauve-souris plumes",
+        "image": "assets/images/farfelue_23.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Poulet acrobate",
+        "image": "assets/images/farfelue_24.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Pousser mémé dans les orties",
+        "image": "assets/images/expression_06.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Chat masque",
+        "image": "assets/images/farfelue_25.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Tomber dans les pommes",
+        "image": "assets/images/expression_07.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Superman végétarien",
+        "image": "assets/images/farfelue_26.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Marie Curie Influenceuse",
+        "image": "assets/images/farfelue_27.webp",
+        "indice": "On recherche 1 perso. et 1 \"métier\""
+    },
+	{
+        "prompt": "Armée Pingouins",
+        "image": "assets/images/farfelue_28.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Gaulois Snapchat",
+        "image": "assets/images/farfelue_29.webp",
+        "indice": "On recherche 1 peuple et 1 appli"
+    },
+	{
+        "prompt": "Rouler sur l’or",
+        "image": "assets/images/expression_09.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Pizza volante",
+        "image": "assets/images/farfelue_30.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Banane acrobatique",
+        "image": "assets/images/farfelue_31.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Bouche cousue",
+        "image": "assets/images/expression_10.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Dark vador flute",
+        "image": "assets/images/farfelue_32.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Angelina Jolie",
+        "image": "assets/images/expression_33.webp",
+        "indice": "On recherche 1 perso."
+    },
+	{
+        "prompt": "Chien professeur",
+        "image": "assets/images/farfelue_34.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Robot agent immobilier",
+        "image": "assets/images/farfelue_35.webp",
+        "indice": "On recherche 1 mot et 1 métier"
+    },
+	{
+        "prompt": "Mettre de l’eau dans son vin",
+        "image": "assets/images/expression_11.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Jennifer connely Wonderwoman",
+        "image": "assets/images/farfelue_36.webp",
+        "indice": "On recherche 1 perso. et 1 comic"
+    },
+	{
+        "prompt": "Baleine bocal",
+        "image": "assets/images/expression_37.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Mozart informaticien",
+        "image": "assets/images/farfelue_38.webp",
+        "indice": "On recherche 1 artiste et 1 métier"
+    },
+	{
+        "prompt": "Pyramide Chat",
+        "image": "assets/images/farfelue_39.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Avoir le cœur brisé",
+        "image": "assets/images/expression_12.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Jeune alien ville",
+        "image": "assets/images/farfelue_40.webp",
+        "indice": "On recherche 3 mots"
+    },
+	{
+        "prompt": "Kangourou Harry potter",
+        "image": "assets/images/farfelue_41.webp",
+        "indice": "On recherche 1 animal et 1 film"
+    },
+	{
+        "prompt": "Ordinateur extraterrestre",
+        "image": "assets/images/farfelue_42.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Michael Jackson fusée",
+        "image": "assets/images/expression_43.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Darwin rigole",
+        "image": "assets/images/farfelue_44.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Flamants roses dansants",
+        "image": "assets/images/farfelue_45.webp",
+        "indice": "On recherche 1 animal et 1 mot"
+    },
+	{
+        "prompt": "Mettre les pieds dans le plat",
+        "image": "assets/images/expression_14.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Tom hanks Tupac",
+        "image": "assets/images/farfelue_46.webp",
+        "indice": "On recherche 2 perso.s"
+    },
+	{
+        "prompt": "Les doigts dans le nez",
+        "image": "assets/images/expression_15.webp",
+        "indice": "On recherche 1 expression"
+    },	
+	{
+        "prompt": "Mandalorian Shanghai",
+        "image": "assets/images/farfelue_47.webp",
+        "indice": "On recherche 1 mot et 1 ville"
+    },
+	{
+        "prompt": "Poséidon dans une boite de conserve",
+        "image": "assets/images/farfelue_48.webp",
+        "indice": "On recherche 6 petits mots"
+    },
+	{
+        "prompt": "Danseuse Lune",
+        "image": "assets/images/farfelue_49.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Biscuit magique volant",
+        "image": "assets/images/farfelue_50.webp",
+        "indice": "On recherche 3 mots"
+    },
+	{
+        "prompt": "Mr bean Batman",
+        "image": "assets/images/farfelue_51.webp",
+        "indice": "On recherche 2 personnages"
+    },
+	{
+        "prompt": "Audrey Hepburn",
+        "image": "assets/images/farfelue_52.webp",
+        "indice": "On recherche 1 perso."
+    },
+	{
+        "prompt": "Astronaute surfeur",
+        "image": "assets/images/farfelue_53.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Soucoupe volante",
+        "image": "assets/images/farfelue_54.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Tirer les vers du nez",
+        "image": "assets/images/expression_18.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Gemme robotique",
+        "image": "assets/images/farfelue_55.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Janus",
+        "image": "assets/images/farfelue_56.webp",
+        "indice": "On recherche 1 dieu"
+    },
+	{
+        "prompt": "Les carottes sont cuites",
+        "image": "assets/images/expression_20.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Voiture steampunk",
+        "image": "assets/images/farfelue_57.webp",
+        "indice": "On recherche 2 mots"
+    },
+	{
+        "prompt": "Pierre qui roule n'amasse pas mousse",
+        "image": "assets/images/expression_22.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Brad Pitt robot",
+        "image": "assets/images/farfelue_58.webp",
+        "indice": "On recherche 1 perso. et 1 mot"
+    },
+	{
+        "prompt": "Il n'y a pas le feu au lac",
+        "image": "assets/images/expression_23.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Black panther Superman",
+        "image": "assets/images/farfelue_59.webp",
+        "indice": "On recherche 2 personnages"
+    },
+	{
+        "prompt": "La bave du crapaud n'atteint pas la blanche colombe",
+        "image": "assets/images/expression_21.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Carnaval Afrique",
+        "image": "assets/images/farfelue_60.webp",
+        "indice": "On recherche 1 mot et 1 pays"
+    },
+	{
+        "prompt": "Mettre la puce à l’oreille",
+        "image": "assets/images/expression_24.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Combat ours futuriste",
+        "image": "assets/images/farfelue_62.webp",
+        "indice": "On recherche 3 mots"
+    },
+	{
+        "prompt": "Tomber dans les bras de Morphée",
+        "image": "assets/images/expression_25.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Raconter des salades",
+        "image": "assets/images/expression_26.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Fleur bleue",
+        "image": "assets/images/expression_27.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Courir à la vitesse de l'éclair",
+        "image": "assets/images/expression_28.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Son sourire était un rayon de soleil",
+        "image": "assets/images/expression_29.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "La vie est un voyage incertain",
+        "image": "assets/images/expression_30.webp",
+        "indice": "On recherche 1 expression"
+    },
+	{
+        "prompt": "Le bonheur est un papillon qui s'envole",
+        "image": "assets/images/expression_31.webp",
+        "indice": "On recherche 1 expression"
+    },
+    {
+        "prompt": "Big brother",
+        "image": "assets/images/_2da7cec0-7df0-4b19-95cc-d0b4c2a0e63b.jpeg",
+        "indice": "On recherche un personnage de roman"
+    },
+    {
+        "prompt": "Jardin secret",
+        "image": "assets/images/_b8abdae2-a78c-4ada-9ca2-25093141acb6.jpeg",
+        "indice": "On recherche une concept"
+    },
+    {
+        "prompt": "Intelligence artificielle",
+        "image": "assets/images/_115909c0-f4c8-45e3-bfdb-49d38f04a288.jpeg",
+        "indice": "On recherche un domaine"
+    },
+    {
+        "prompt": "La course à l'échalotte",
+        "image": "assets/images/_8a3045dd-d771-48f4-ad41-6ebecd00d04c.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Alchimie",
+        "image": "assets/images/_885784e0-3d44-428e-87f8-3fef16b2f1fa.jpeg",
+        "indice": "On recherche un domaine"
+    },
+    {
+        "prompt": "S'ennuyer comme un rat mort",
+        "image": "assets/images/_dfa9d7ff-892a-4fa4-bb7b-cb06ecef0817.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Jérusalem céleste",
+        "image": "assets/images/_ae6b6195-c0a2-44fc-a4bd-23d37d2f0635.jpeg",
+        "indice": "On recherche un concept religieux"
+    },
+    {
+        "prompt": "L'arbre qui cache la forêt",
+        "image": "assets/images/_5b1c6944-cf8b-4b9d-a3df-8802b1516520.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Métaphysique",
+        "image": "assets/images/_c6081578-c8a7-43c3-bb33-2ab897a235e5.jpeg",
+        "indice": "On recherche une domaine"
+    },
+    {
+        "prompt": "Rouler dans la farine",
+        "image": "assets/images/_ff86e19d-9000-489c-8f6a-1eea9512ff9a.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Casser sa pipe",
+        "image": "assets/images/_78d332d4-9ee1-4509-b3e4-bedcd51100c2.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Social",
+        "image": "assets/images/_6f4a3d15-edc5-471f-8a1d-89f9ec86f66e.jpeg",
+        "indice": "On recherche un adjectif"
+    },
+    {
+        "prompt": "Tirer le taureau par les cornes",
+        "image": "assets/images/_663cb703-06de-4703-b447-6daf74084aad.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Poser un lapin",
+        "image": "assets/images/_2ea48036-62fd-4437-968a-ac6ef028b991.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Montrer patte blanche",
+        "image": "assets/images/_cb746e52-c939-4ff3-8e62-fe8ebbcd353e.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Avoir les dents longues",
+        "image": "assets/images/_e1f7c927-689b-4b31-a112-fda1326cefbc.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Pressé comme un citron",
+        "image": "assets/images/_d4524e66-01f5-45ff-8b55-3ef37d0217e5.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Veiller au grain",
+        "image": "assets/images/_4220eb62-d49a-4123-beac-f1e33727cdb0.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Marquer d'une pierre blanche",
+        "image": "assets/images/_719eb20a-49a9-4c60-8314-e00af6474253.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Justice",
+        "image": "assets/images/_f781f928-c697-43ed-9b63-544d2b559dbf.jpeg",
+        "indice": "On recherche un concept"
+    },
+    {
+        "prompt": "Mi-figue Mi-raisin",
+        "image": "assets/images/_39032b12-34b2-47d2-b467-ddbdb62e7eb8.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Faire la fine bouche",
+        "image": "assets/images/_f940c7a3-5eaf-4b52-99d4-4fb5038e283f.jpeg",
+        "indice": "On recherche une expression"
+    },
+    {
+        "prompt": "Rire comme une baleine",
+        "image": "assets/images/_95563bf2-90f3-4b00-a542-71938fdac645.jpeg",
+        "indice": "On recherche une expression"
+    }
+]
