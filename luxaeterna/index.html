@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Lux aeterna</title>
+      <meta name="description" content="Des pistes pour construire le monde d’après / Paths to build the world of after">
+      <style type="text/css">
+		html{color: #ccc; font-family: Arial, sans-serif;}
+		body{text-align: center; background-color: black;}
+		h1{font-size: 1rem;}
+		#content{display: flex; justify-content:center; align-items:center;}
+		#menu{color: grey; position: absolute; top: 2em; left: 1em;}
+		a{color: grey;}
+    @media screen and (max-width: 768px) {
+			#img{
+				width: 100%;
+			}
+		}
+	</style>
+  </head>
+    
+  <body id="monBody">
+    Des pistes pour construire le monde d’après<br>
+
+    <div id="menu">
+      <a href="#" onclick="Change(1,'black')">V1 (Thibault)</a><br>
+      <a href="#" onclick="Change(2,'black')">V2 (Yann)</a><br>
+      <a href="#" onclick="Change(3,'white')">V3 (Manon)</a><br>
+      <a href="#" onclick="Change(4,'white')">V4 (Anne-sophie)</a><br>
+      <a href="#" onclick="Change(5,'black')">V5 (Franck)</a><br>
+      <a href="#" onclick="Change(6,'white')">V6 (Élodie)</a><br>
+      <a href="#" onclick="Change(7,'white')">V7 (Amélie)</a>
+    </div>
+
+    <div id="content">
+    
+
+      <img src="lux2.jpeg" id="img">
+
+    </div>
+  </body>
+    <script>
+        function Change(num,color){
+           var monImg = document.getElementById("img");
+           monImg.src="lux"+num+".jpeg";
+            document.getElementById("monBody").style.backgroundColor=color;
+        }
+    </script>
+</html>
